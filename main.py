@@ -21,6 +21,7 @@ while m_isRunning:
 
     m_screen.fill((0,0,0))
     m_game.Render(m_screen)
+    #this change is on master branch
     pygame.display.flip()
 
 pygame.quit()
