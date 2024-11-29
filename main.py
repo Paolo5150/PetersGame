@@ -21,10 +21,15 @@ while m_isRunning:
 
     m_screen.fill((0,0,0))
     m_game.Render(m_screen)
-    #hey, this is a stupid change
+    #hey, this isn't a stupid change
 
     pygame.display.flip()
 
 pygame.quit()
+
+#lsdjfklgjklsjdlfjglksdjfgsldjfgklsdjfkg;sdj;lhjl;gfdjkj;fjioejioejg;rjiog;jfdsgk;dfgskd;j;j
+
+dsogsijhfd = ['fdsfklj', 'sakdflgjldkfjslgjkdfjlgjskdfjhlgjfhkldgfh']
+
 
 
